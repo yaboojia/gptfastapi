@@ -1,6 +1,8 @@
 ## install
 pip install fastapi uvicorn
 
+## openai
+export OPENAI_API_KEY='your-api-key-here'
 ## runing
 uvicorn main:app --reload
 
